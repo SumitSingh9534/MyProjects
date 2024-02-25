@@ -1,0 +1,35 @@
+body{
+
+    text-align: center;
+
+    }
+
+    .choice-button{
+        height: 100px;
+        width: 100px;
+        border: none;
+        margin: 10px;
+        background-color: lightgreen;
+        border-radius: 50px;
+        cursor: pointer;
+    }
+
+    .choice-image{
+        height: 75px;
+    }
+
+    .reset-button{
+        height: 50px;
+        width: 90px;
+        border-radius: 25px;
+        background-color: aqua;
+        font-size: 20px;
+        border: none;
+        cursor: pointer;
+        
+        
+    }
+
+    .bat-ball{
+        color: purple;
+    }
